@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0184/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部四
+  hash: sha256:feea65c2c5f7b24c3923896ddfefeaca5f2adb12a64602844adb735e91a1782a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0184_WYG_000-1a, image: WYG1136/WYG1136-0001a.png}
+body:
+  text: 和靖集目錄别集類三宋巻一奏劄上巻二奏劄下巻三詩雜文書巻四壁帖巻五師說上巻六師說中巻七師說下巻八年譜臣等謹案和靖集八巻宋徽猷閣待制河南尹焞撰焞字彦明年十二應進士舉䇿問議誅元祐黨籍不對而出靖康初賜號和靖處士後以范冲張浚薦入經筵列侍從旋乞致仕集凡八巻首列奏劄二巻次詩文一巻次壁帖一巻是其手書聖賢治氣飬心之要帖之屋壁以自警惕又次師說三巻則其門人王時敏編輯末附年譜為第八巻朱子語錄謂焞文字其有闗朝廷者多門人代作今亦不可復考然指授㸃定亦必焞所自為亦猶㑹昌一品集序雖李商隠作究以鄭亞改本為勝正不必盡自己出也乾隆四十二年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:e0bfeed049f1c1466e8705e977eb69608b53373861dcf68c6351fbc9a17e6a58
+metadata:
+  title: 和靖集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:57:57.144363'
+  juan_title: 目錄
+  source:
+    repository: kanripo
+    path: KR4d0184/KR4d0184_000.txt
+hash: sha256:ef03e6767329e8be246d9e4e8af1fd368e0a6598b8a5e9ab19cd21c50943405c
